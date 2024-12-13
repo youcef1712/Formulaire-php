@@ -1,10 +1,11 @@
-#Formulaire de Contact Interactif
+**Formulaire de Contact Interactif:**
 
-#Description
+
+**Description:**
 
 Un formulaire de contact moderne permettant aux utilisateurs d'envoyer un message avec validation dynamique.
 
-#Fonctionnalités
+**Fonctionnalités:**
 
 Design avec une interface.
 
